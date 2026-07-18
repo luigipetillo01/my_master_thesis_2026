@@ -1,13 +1,11 @@
-# Investigations on BRST Canonical Quantization in Gravity
+# My Master's Thesis
 
-This repository will host the research materials and computational tools developed for my Master's Thesis in Physics.
+This repository contains the abstract and research materials for my Master's Thesis in Physics (Theoretical Physics) at the University of Naples Federico II.
 
-## Current Status: Work in Progress 🚧
-The thesis is currently under development. Materials, including symbolic calculations and theoretical derivations, will be uploaded upon completion.
+## Thesis Abstract
+The complete abstract of the thesis is available in the following document:
 
-## Methods
-* **Theoretical Framework**: BRST quantization, General Relativity, and Gauge Theories.
-* **Symbolic Computing**: Advanced tensor algebra simulations performed using **Cadabra2**.
+👉 **[Download / View the Thesis Abstract (PDF)](./abstract_tesi_magistrale.pdf)**
 
 ---
-*Master's Degree in Physics — University of Naples Federico II*
+*Master's Degree in Physics – University of Naples Federico II*
